@@ -1,0 +1,55 @@
+[2025-09-08 12:34:40] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 12:34:40] [INFO ] [main] Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml
+
+[2025-09-08 12:34:53] [INFO ] [main] TC001_AccountRegistrationTest - Launching Chrome browser
+[2025-09-08 12:34:59] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 12:41:32] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 12:41:33] [INFO ] [main] Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml
+
+[2025-09-08 12:41:35] [INFO ] [main] TC001_AccountRegistrationTest - Launching Chrome browser
+[2025-09-08 12:41:43] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 12:43:42] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 12:43:45] [INFO ] [main] TC001_AccountRegistrationTest - Launching Chrome browser
+[2025-09-08 12:43:52] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 12:44:27] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\grouping.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 12:44:27] [INFO ] [main] Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\grouping.xml
+
+[2025-09-08 12:44:30] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 13:04:46] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 13:04:47] [INFO ] [main] Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml
+
+[2025-09-08 13:04:50] [INFO ] [main] TC001_AccountRegistrationTest - Launching Chrome browser
+[2025-09-08 13:04:50] [INFO ] [main] TC001_AccountRegistrationTest - Launched application URL: http://localhost/opencart/
+[2025-09-08 13:04:50] [INFO ] [main] TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+[2025-09-08 13:04:51] [INFO ] [main] TC001_AccountRegistrationTest - Clicked on My Account
+[2025-09-08 13:04:51] [INFO ] [main] TC001_AccountRegistrationTest - Clicked on Register
+[2025-09-08 13:04:51] [INFO ] [main] TC001_AccountRegistrationTest - Filling registration form
+[2025-09-08 13:04:54] [INFO ] [main] TC001_AccountRegistrationTest - Validation: expected message is 'Your Account Has Been Created!'
+[2025-09-08 13:04:55] [INFO ] [main] TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+[2025-09-08 13:04:56] [INFO ] [main] TC001_AccountRegistrationTest - Browser closed successfully.
+[2025-09-08 13:04:57] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 13:04:57] [INFO ] [main] TC002_LoginTest - Launched application URL: http://localhost/opencart/
+[2025-09-08 13:04:57] [INFO ] [main] TC002_LoginTest - ***** Starting TC002_LoginTest *****
+[2025-09-08 13:04:58] [INFO ] [main] TC002_LoginTest - Clicked on Login
+[2025-09-08 13:04:58] [INFO ] [main] TC002_LoginTest - Filling login form
+[2025-09-08 13:05:19] [INFO ] [main] TC002_LoginTest - Browser closed successfully.
+[2025-09-08 13:06:48] [WARN ] [main] TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\ADMIN\eclipse-workspace\Automation\projectopencartv121\testng.xml] otherwise TestNG may fail or not work as expected.
+[2025-09-08 13:06:51] [INFO ] [main] TC001_AccountRegistrationTest - Launching Chrome browser
+[2025-09-08 13:06:51] [INFO ] [main] TC001_AccountRegistrationTest - Launched application URL: http://localhost/opencart/
+[2025-09-08 13:06:51] [INFO ] [main] TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+[2025-09-08 13:06:51] [INFO ] [main] TC001_AccountRegistrationTest - Clicked on My Account
+[2025-09-08 13:06:52] [INFO ] [main] TC001_AccountRegistrationTest - Clicked on Register
+[2025-09-08 13:06:52] [INFO ] [main] TC001_AccountRegistrationTest - Filling registration form
+[2025-09-08 13:06:55] [INFO ] [main] TC001_AccountRegistrationTest - Validation: expected message is 'Your Account Has Been Created!'
+[2025-09-08 13:06:55] [INFO ] [main] TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+[2025-09-08 13:06:56] [INFO ] [main] TC001_AccountRegistrationTest - Browser closed successfully.
+[2025-09-08 13:06:57] [INFO ] [main] TC002_LoginTest - Launching Chrome browser
+[2025-09-08 13:06:57] [INFO ] [main] TC002_LoginTest - Launched application URL: http://localhost/opencart/
+[2025-09-08 13:06:57] [INFO ] [main] TC002_LoginTest - ***** Starting TC002_LoginTest *****
+[2025-09-08 13:06:58] [INFO ] [main] TC002_LoginTest - Clicked on Login
+[2025-09-08 13:06:58] [INFO ] [main] TC002_LoginTest - Filling login form
+[2025-09-08 13:07:19] [INFO ] [main] TC002_LoginTest - Browser closed successfully.
